@@ -33,3 +33,9 @@ Le serveur remplit les rôles de serveur web et de base de données. Toutes les 
 
 - Application mobile
 L'application mobile développée pour ce projet permet à l'utilisateur de localiser un support de charge ou un outil dans l'entrepôt. Le smartphone fonctionne comme un détecteur de balises. L'utilisateur peut saisir manuellement le code "Major-Minor" de la balise recherchée ou le sélectionner dans une liste. L'application récupère cette liste depuis le serveur. L'utilisateur se guide en fonction de la distance estimée, même si la direction n'est pas indiquée. Projet Tracking BLE
+
+
+#### 15/01/2024 : Installation du serveur web et création de la base de donnée.
+#### 16/01/2024 : Diagramme de déploiement et d’exigence réalisé avec le groupe.
+
+*Diagramme de déploiement :*
