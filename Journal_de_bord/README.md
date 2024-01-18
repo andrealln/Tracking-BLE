@@ -39,3 +39,11 @@ L'application mobile développée pour ce projet permet à l'utilisateur de loca
 #### 16/01/2024 : Diagramme de déploiement et d’exigence réalisé avec le groupe.
 
 * Diagramme de déploiement : 
+  ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/36a873b8-828d-4971-8f53-dd878066ce4e)
+* Diagramme d’exigence camion :
+  ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/7c666f9f-7b52-4d0d-9844-3de82fbd0c3f)
+* Diagramme d’exigence entrepôt :
+  ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/db3a15c0-fb08-4b01-b13c-b8264834834c)
+
+  
+
