@@ -47,7 +47,6 @@ L'application mobile développée pour ce projet permet à l'utilisateur de loca
 #### 18/01/2024 : Mise en place du serveur OVH et amelioration du diagramme de déploiement.
 * Diagramme de déploiement :
 
-  
   ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/5d53e427-6316-4496-8984-589fbed1871a) 
   
 
