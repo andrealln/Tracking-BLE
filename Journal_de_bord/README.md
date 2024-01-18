@@ -38,4 +38,4 @@ L'application mobile développée pour ce projet permet à l'utilisateur de loca
 #### 15/01/2024 : Installation du serveur web et création de la base de donnée.
 #### 16/01/2024 : Diagramme de déploiement et d’exigence réalisé avec le groupe.
 
-*Diagramme de déploiement :*
+* Diagramme de déploiement : 
