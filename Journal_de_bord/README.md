@@ -1,4 +1,4 @@
-![Capture d'écran 2024-01-23 154246](https://github.com/andrealln/Tracking-BLE/assets/98532738/1a49466c-6932-44ce-89ac-721e356f3f23)### Andrea lallouni Etudiant3
+### Andrea lallouni Etudiant3
 
 ## Journal de bord
 
