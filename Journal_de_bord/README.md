@@ -1,4 +1,4 @@
-### Andrea lallouni Etudiant3
+![Capture d'écran 2024-01-23 154246](https://github.com/andrealln/Tracking-BLE/assets/98532738/1a49466c-6932-44ce-89ac-721e356f3f23)### Andrea lallouni Etudiant3
 
 ## Journal de bord
 
@@ -49,8 +49,9 @@ L'application mobile développée pour ce projet permet à l'utilisateur de loca
 
   ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/5d53e427-6316-4496-8984-589fbed1871a)
 #### 22/01/2024 : Création de la base de données MCD MLD avec yahya et le cahier de recette
-
+![Capture d’écran de 2024-01-23 15-53-43](https://github.com/andrealln/Tracking-BLE/assets/98532738/e28e083f-3a97-4eea-a6d6-c9f8129f7214)
 #### 24/01/2024 et 25/01/2024 : simulation des pages du responsable entrepot et logistique sur figma
+![TRAKING-BLE](https://github.com/andrealln/Tracking-BLE/assets/98532738/9332b882-81f8-424a-b59d-a317473677be)
 ![RL](https://github.com/andrealln/Tracking-BLE/assets/98532738/5b972a87-23e3-47ed-afe8-5c75bf541956)
 ![RE](https://github.com/andrealln/Tracking-BLE/assets/98532738/075c14a1-d482-4020-b802-066976deadc3)
 
