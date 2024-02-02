@@ -55,6 +55,7 @@ L'application mobile développée pour ce projet permet à l'utilisateur de loca
 ![RL](https://github.com/andrealln/Tracking-BLE/assets/98532738/5b972a87-23e3-47ed-afe8-5c75bf541956)
 ![RE](https://github.com/andrealln/Tracking-BLE/assets/98532738/075c14a1-d482-4020-b802-066976deadc3)
 ### 26/01/2024 : Passage sur la première revue
+### 31/01/2024 : Dbut du codage des pages web du responsable logistique et entrepot en php
 
 
   
