@@ -52,8 +52,11 @@ L'application mobile développée pour ce projet permet à l'utilisateur de loca
 ![Capture d’écran de 2024-01-23 15-53-43](https://github.com/andrealln/Tracking-BLE/assets/98532738/e28e083f-3a97-4eea-a6d6-c9f8129f7214)
 ### 24/01/2024 et 25/01/2024 : Simulation des pages du responsable entrepot et logistique sur figma
 ![TRAKING-BLE](https://github.com/andrealln/Tracking-BLE/assets/98532738/9332b882-81f8-424a-b59d-a317473677be)
-![RL](https://github.com/andrealln/Tracking-BLE/assets/98532738/5b972a87-23e3-47ed-afe8-5c75bf541956)
-![RE](https://github.com/andrealln/Tracking-BLE/assets/98532738/075c14a1-d482-4020-b802-066976deadc3)
+![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/46f33b26-c5e1-48e3-8cd6-e65b771492ab)
+![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/853a39ee-968a-4d40-87db-33fc3ae804d5)
+![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/d6f3830c-ba68-41d9-bebd-c4965f36099a)
+![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/3a06d9c5-5a81-4190-86f9-0d8255c96c2a)
+
 ### 26/01/2024 : Passage sur la première revue
 ### 31/01/2024 : Debut du codage des pages web du responsable logistique et entrepot en php
 
