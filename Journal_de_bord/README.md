@@ -4,8 +4,6 @@
 
 
 ### 01/2024 : Avancement sur le diagramme des cas d’utilisations .
-![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/01a5b2e6-9cf5-4d1d-a33a-18b262afc5e1)
-![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/d2b6a319-4ae1-42a4-86c7-31504c8171b7)
 ### 01/2024 : Reformulation du cahier des charges et avancement sur le diagramme de déploiement.
 - Repérage des balises
 Tous les supports de charges et les outils sont équipés d'une petite balise appelée iBeacon. Ces balises sont détectées par des boîtiers spéciaux, fabriqués par BlueNetBeacon, qui utilisent la technologie BLE/wifi. Ces boîtiers sont en mode de lecture constante et envoient les données au tampon de données sous forme de messages JSON via des requêtes HTTP POST.
@@ -38,24 +36,14 @@ L'application mobile développée pour ce projet permet à l'utilisateur de loca
 ### 01/2024 : Installation du serveur web et création de la base de donnée.
 ### 01/2024 : Diagramme de déploiement et d’exigence réalisé avec le groupe.
 
-* Diagramme de déploiement : 
-  ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/36a873b8-828d-4971-8f53-dd878066ce4e)
-* Diagramme d’exigence camion :
-  ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/7c666f9f-7b52-4d0d-9844-3de82fbd0c3f)
-* Diagramme d’exigence entrepôt :
-  ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/db3a15c0-fb08-4b01-b13c-b8264834834c)
-### 01/2024 : Mise en place du serveur OVH et amelioration du diagramme de déploiement.
-* Diagramme de déploiement :
 
-  ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/5d53e427-6316-4496-8984-589fbed1871a)
+### 01/2024 : Mise en place du serveur OVH et amelioration du diagramme de déploiement.
+
+
+
 ### 01/2024 : Création de la base de données MCD MLD avec yahya et le cahier de recette
-![Capture d’écran de 2024-01-23 15-53-43](https://github.com/andrealln/Tracking-BLE/assets/98532738/e28e083f-3a97-4eea-a6d6-c9f8129f7214)
-### 01/2024 : Simulation des pages du responsable entrepot et logistique sur figma
-![TRAKING-BLE](https://github.com/andrealln/Tracking-BLE/assets/98532738/9332b882-81f8-424a-b59d-a317473677be)
-![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/46f33b26-c5e1-48e3-8cd6-e65b771492ab)
-![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/853a39ee-968a-4d40-87db-33fc3ae804d5)
-![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/d6f3830c-ba68-41d9-bebd-c4965f36099a)
-![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/3a06d9c5-5a81-4190-86f9-0d8255c96c2a)
+
+### 01/2024 : Maquettage des pages du responsable entrepot et logistique sur figma
 
 ### 26/01/2024 : Passage sur la première revue
 ### 01/2024 : Debut du codage des pages web du responsable logistique et entrepot en php
