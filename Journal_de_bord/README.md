@@ -59,6 +59,7 @@ L'application mobile développée pour ce projet permet à l'utilisateur de loca
 
 ### 26/01/2024 : Passage sur la première revue
 ### 01/2024 : Debut du codage des pages web du responsable logistique et entrepot en php
+### 02/2024 : Création du diagramme de séquence des pages webs
 ### 02/2024 : préparation passage deuxième revue
 ### 02/2024 : passage deuxième revue
 ### 03/2024 : modification des pages figma
