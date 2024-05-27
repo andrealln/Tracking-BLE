@@ -3,10 +3,10 @@
 ## Journal de bord
 
 
-### 10 &11/01/2024 : Avancement sur le diagramme des cas d’utilisations .
+### 01/2024 : Avancement sur le diagramme des cas d’utilisations .
 ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/01a5b2e6-9cf5-4d1d-a33a-18b262afc5e1)
 ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/d2b6a319-4ae1-42a4-86c7-31504c8171b7)
-### 12/01/2024 : Reformulation du cahier des charges et avancement sur le diagramme de déploiement.
+### 01/2024 : Reformulation du cahier des charges et avancement sur le diagramme de déploiement.
 - Repérage des balises
 Tous les supports de charges et les outils sont équipés d'une petite balise appelée iBeacon. Ces balises sont détectées par des boîtiers spéciaux, fabriqués par BlueNetBeacon, qui utilisent la technologie BLE/wifi. Ces boîtiers sont en mode de lecture constante et envoient les données au tampon de données sous forme de messages JSON via des requêtes HTTP POST.
 
@@ -35,8 +35,8 @@ Le serveur remplit les rôles de serveur web et de base de données. Toutes les 
 L'application mobile développée pour ce projet permet à l'utilisateur de localiser un support de charge ou un outil dans l'entrepôt. Le smartphone fonctionne comme un détecteur de balises. L'utilisateur peut saisir manuellement le code "Major-Minor" de la balise recherchée ou le sélectionner dans une liste. L'application récupère cette liste depuis le serveur. L'utilisateur se guide en fonction de la distance estimée, même si la direction n'est pas indiquée. Projet Tracking BLE
 
 
-### 15/01/2024 : Installation du serveur web et création de la base de donnée.
-### 16/01/2024 : Diagramme de déploiement et d’exigence réalisé avec le groupe.
+### 01/2024 : Installation du serveur web et création de la base de donnée.
+### 01/2024 : Diagramme de déploiement et d’exigence réalisé avec le groupe.
 
 * Diagramme de déploiement : 
   ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/36a873b8-828d-4971-8f53-dd878066ce4e)
@@ -44,13 +44,13 @@ L'application mobile développée pour ce projet permet à l'utilisateur de loca
   ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/7c666f9f-7b52-4d0d-9844-3de82fbd0c3f)
 * Diagramme d’exigence entrepôt :
   ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/db3a15c0-fb08-4b01-b13c-b8264834834c)
-### 18/01/2024 : Mise en place du serveur OVH et amelioration du diagramme de déploiement.
+### 01/2024 : Mise en place du serveur OVH et amelioration du diagramme de déploiement.
 * Diagramme de déploiement :
 
   ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/5d53e427-6316-4496-8984-589fbed1871a)
-### 22/01/2024 : Création de la base de données MCD MLD avec yahya et le cahier de recette
+### 01/2024 : Création de la base de données MCD MLD avec yahya et le cahier de recette
 ![Capture d’écran de 2024-01-23 15-53-43](https://github.com/andrealln/Tracking-BLE/assets/98532738/e28e083f-3a97-4eea-a6d6-c9f8129f7214)
-### 24/01/2024 et 25/01/2024 : Simulation des pages du responsable entrepot et logistique sur figma
+### 01/2024 et 25/01/2024 : Simulation des pages du responsable entrepot et logistique sur figma
 ![TRAKING-BLE](https://github.com/andrealln/Tracking-BLE/assets/98532738/9332b882-81f8-424a-b59d-a317473677be)
 ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/46f33b26-c5e1-48e3-8cd6-e65b771492ab)
 ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/853a39ee-968a-4d40-87db-33fc3ae804d5)
@@ -58,7 +58,13 @@ L'application mobile développée pour ce projet permet à l'utilisateur de loca
 ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/3a06d9c5-5a81-4190-86f9-0d8255c96c2a)
 
 ### 26/01/2024 : Passage sur la première revue
-### 31/01/2024 : Debut du codage des pages web du responsable logistique et entrepot en php
+### 01/2024 : Debut du codage des pages web du responsable logistique et entrepot en php
+### 02/2024 : préparation passage deuxième revue
+### 02/2024 : passage deuxième revue
+### 03/2024 : modification des pages figma
+### 04/2024 : modification des diapos de la revue 2
+### 05/2024 : préparation passage troisième revue
+### 05/2024 : passage troisième revue
 
 
   
