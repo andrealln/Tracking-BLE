@@ -50,7 +50,7 @@ L'application mobile développée pour ce projet permet à l'utilisateur de loca
   ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/5d53e427-6316-4496-8984-589fbed1871a)
 ### 01/2024 : Création de la base de données MCD MLD avec yahya et le cahier de recette
 ![Capture d’écran de 2024-01-23 15-53-43](https://github.com/andrealln/Tracking-BLE/assets/98532738/e28e083f-3a97-4eea-a6d6-c9f8129f7214)
-### 01/2024 et 25/01/2024 : Simulation des pages du responsable entrepot et logistique sur figma
+### 01/2024 : Simulation des pages du responsable entrepot et logistique sur figma
 ![TRAKING-BLE](https://github.com/andrealln/Tracking-BLE/assets/98532738/9332b882-81f8-424a-b59d-a317473677be)
 ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/46f33b26-c5e1-48e3-8cd6-e65b771492ab)
 ![image](https://github.com/andrealln/Tracking-BLE/assets/98532738/853a39ee-968a-4d40-87db-33fc3ae804d5)
